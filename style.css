@@ -1,0 +1,71 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;}
+ h1{
+    
+        font-size: 50px;
+    
+ }
+.hilight-name{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+
+.top-bannar{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+    height: 500px;
+
+}
+.mid-bannar{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+
+}
+.hire-me{
+    text-decoration: none;
+    background-image:linear-gradient(#d4c329c4,red);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.box-shadow{
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+    border-radius: 10px;
+}
+.foot-bannar{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+
+    
+}
+.line-border1{
+    border-left: 3px solid rgba(218, 57, 57, 0.815);
+
+}
+.line-border2{
+    border-left: 3px solid rgba(38, 96, 204, 0.794);
+
+}
+.footer{
+    text-align: center;
+}
